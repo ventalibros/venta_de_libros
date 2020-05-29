@@ -175,8 +175,8 @@ def nueva_venta():
     for i in productos_venta: #recorremos el arreglo de los productos que se agregaron a esta venta
         print("Codigo:" ,str(i['producto_id']))
         print("Cantidad: " ,  str(i['cantidad']))
-        print("EL LIBRO VENDIDO ES: BELLA")
-        print("TOTAL A PAGAR: Q200") 
+        print("EL LIBRO VENDIDO ES: DIARIO DE ANA FRANK")
+        print("TOTAL A PAGAR: Q175") 
               
     print("****************************************************")
     
